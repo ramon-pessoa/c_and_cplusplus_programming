@@ -5,7 +5,7 @@ Some programming examples in C and C++
 
 1. [Solutions for coding problems](#solutions-for-coding-problems)
 
-## Compiling and running a C++ program via command line
+## Compiling and running C++ program via command line
 ```sh
 g++ program.cpp -o program
 ```
