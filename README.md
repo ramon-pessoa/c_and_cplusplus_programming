@@ -8,6 +8,7 @@ Some programming examples in C and C++
 ## Compiling and running C++ program via command line
 ```sh
 g++ program.cpp -o program
+./program
 ```
 
 ## Solutions for coding problems
