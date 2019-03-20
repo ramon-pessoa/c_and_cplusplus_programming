@@ -23,6 +23,6 @@ g++ program.cpp -o program
 	* For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 	* Follow-up: what if you can't use division?
 
-	a. Solution (C++) [array_with_the_product_of_all.cpp](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/array_with_the_product_of_all.cpp)
+	a. Solution (C++) [array_with_the_product_of_all.cpp](https://github.com/ramon-pessoa/c_and_cplusplus_programming/blob/master/solutions_for_coding_problems/array_with_the_product_of_all.cpp)
 
 Go back to [Contents](#contents).
